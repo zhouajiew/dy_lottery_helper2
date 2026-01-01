@@ -1,0 +1,2 @@
+# dy_lottery_helper2
+dy_lottery_helper项目的可多开版本
