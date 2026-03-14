@@ -1,7 +1,7 @@
 # dy_lottery_helper2
 ## 蓝奏云下载地址
 ```
-https://wwauw.lanzouu.com/iAWia3kci3pc
+https://wwauw.lanzouu.com/i8mPY3kllz2d
 ```
 ## dy_lottery_helper项目的可多开版本
 
